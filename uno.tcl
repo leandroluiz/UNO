@@ -1,9 +1,8 @@
 #
 # Marky's Color Uno v0.98.9+overdrive1
-# Copyright (C) 2004-2011 Mark A. Day (techwhiz@embarqmail.com)
-# Copyright (C) 2015 James Lu (glolol@overdrive.pw)
-#
-# Uno(tm) is Copyright (C) 2001 Mattel, Inc.
+# Copyright (C) 2015-2020 Rantosir (rantosir@yahoo.com)
+# 
+# Uno(tm) is Copyright (C) 2015 Gaul, Inc.
 #
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
